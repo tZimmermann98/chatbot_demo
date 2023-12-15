@@ -1,5 +1,5 @@
 # chatbot_demo
-Repositort for a chatbot demo app based on streamlit
+Chatbot demo app based on streamlit
 ## Setup
 ### Install dependencies
 ```bash
